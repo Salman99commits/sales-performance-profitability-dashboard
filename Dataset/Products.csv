@@ -1,0 +1,16 @@
+Product_ID,Product_Name,Category,Unit_Price,Unit_Cost
+P101,Laptop 15,Computers,55000,47000
+P102,Monitor 24,Computers,14000,10500
+P103,Keyboard,Accessories,1200,700
+P104,Mouse,Accessories,700,380
+P105,Printer,Printers,18000,14500
+P106,Office Chair,Furniture,8500,6500
+P107,Desk,Furniture,12000,9000
+P108,Headset,Accessories,2200,1300
+P109,Webcam,Accessories,3500,2200
+P110,External SSD,Storage,6500,4800
+P111,USB Hub,Accessories,1800,1050
+P112,Router,Networking,3200,2400
+P113,Tablet,Mobile,24000,19000
+P114,Smartphone,Mobile,32000,25500
+P115,Power Bank,Mobile,1800,1100
