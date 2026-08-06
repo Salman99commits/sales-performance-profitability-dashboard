@@ -1,5 +1,9 @@
 # Sales Performance & Profitability Dashboard
 
+## Dashboard Preview
+
+![Dashboard](Screenshots/Final_Dashboard.png)
+
 ## Project Overview
 
 ## Business Problem
