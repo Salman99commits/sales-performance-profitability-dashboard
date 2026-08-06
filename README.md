@@ -1,7 +1,7 @@
 # Sales Performance & Profitability Dashboard
 ## Dashboard Preview
 
-![Sales Performance & Profitability Dashboard](Screenshorts/Final_Dashboard.png)
+![Sales Performance & Profitability Dashboard](Screenshots/Final_Dashboard.png)
 
 ## Project Overview
 
