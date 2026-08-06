@@ -22,6 +22,20 @@
 ## Dashboard
 
 ## Business Insights
+## Key Skills Demonstrated
+
+- Microsoft Excel
+- Data Cleaning & Preparation
+- Power Query
+- Data Modeling with Power Pivot
+- DAX Measures
+- Pivot Tables & Pivot Charts
+- Interactive Dashboard Development
+- KPI Development
+- Data Visualization
+- Business Insights & Reporting
+- Slicers & Timeline Filters
+- Data Analysis
 
 ## Screenshots
 
